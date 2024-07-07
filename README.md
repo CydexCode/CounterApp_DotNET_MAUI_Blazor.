@@ -6,4 +6,4 @@
 
 ![NET MAUI B (2)](https://github.com/CydexCode/CounterApp_DotNET_MAUI_Blazor./assets/112784979/b169ef63-d308-4721-8c6a-6f220fab7b3c)
 
-Click Here to learn About [Hybrid App Development with .NET MAUI + Blazor](Hybrid App Development with .NET MAUI + Blazor)
+Click Here to learn About [Hybrid App Development with .NET MAUI + Blazor]([Hybrid App Development with .NET MAUI + Blazor](https://medium.com/@cydexcode/hybrid-app-development-with-net-maui-blazor-9a1e14aef1b8))
